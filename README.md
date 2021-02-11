@@ -25,6 +25,7 @@
 
 - [Description](#description)
 - [Code](#code)
+- [Filter and Find](#FilterAndFind)
 - [Questions](#questions)
 
 ## Description
@@ -33,23 +34,9 @@ Notes to help keep track of different JavaScript ideas, functions, etc
 
 ## Code
 
-```
-index.js file
-```
+## FilterAndFind
 
-![index.js file](./assets/images/hw09_01.PNG)
-
-```
-template.js file
-```
-
-![template.js file](./assets/images/hw09_02.PNG)
-
-```
-prompt.js file
-```
-
-![prompt.js file](./assets/images/hw09_03.PNG)
+![FilterAndFind](./images/Notes.filterAndFind.PNG)
 
 ## Questions
 
