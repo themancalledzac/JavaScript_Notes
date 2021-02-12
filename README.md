@@ -29,6 +29,7 @@
 - [Reduce](#Reduce)
 - [Array Destructuring](#arrayDestructuring)
 - [Object Destructuring](#objectDestructuring)
+- [Spread Operator](#spreadOperator)
 - [Questions](#questions)
 
 ## Description
@@ -52,6 +53,10 @@ Notes to help keep track of different JavaScript ideas, functions, etc
 ### objectDestructuring
 
 ![Object Destructuring](./images/Notes.objectDestructuring.PNG)
+
+### spreadOperator
+
+![spreadOperator](./images/Notes.spreadOperator.PNG)
 
 ## Questions
 
