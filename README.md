@@ -28,6 +28,7 @@
 - [Object Destructuring](#objectDestructuring)
 - [Spread Operator](#spreadOperator)
 - [Rest Operator](#restOperator)
+- [Reduce Advanced](#reduceAdvanced)
 - [Questions](#questions)
 
 ## Description
@@ -58,7 +59,11 @@ Notes to help keep track of different JavaScript ideas, functions, etc
 
 ### restOperator
 
-![spreadOperator](./images/Notes.restOperator.PNG)
+![restOperator](./images/Notes.restOperator.PNG)
+
+### reduceAdvanced
+
+![reduceAdvanced](./images/Notes.reduceAdvanced.PNG)
 
 ## Questions
 
