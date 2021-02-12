@@ -15,10 +15,7 @@
   
 <p align="center">
     <img src="https://img.shields.io/badge/Javascript-yellow" />
-    <img src="https://img.shields.io/badge/jQuery-blue"  />
-    <img src="https://img.shields.io/badge/-node.js-green" />
-    <img src="https://img.shields.io/badge/-inquirer-red" >
-    <img src="https://img.shields.io/badge/-json-orange" />
+
 </p>
 
 ## Table of Contents
@@ -30,6 +27,7 @@
 - [Array Destructuring](#arrayDestructuring)
 - [Object Destructuring](#objectDestructuring)
 - [Spread Operator](#spreadOperator)
+- [Rest Operator](#restOperator)
 - [Questions](#questions)
 
 ## Description
@@ -57,6 +55,10 @@ Notes to help keep track of different JavaScript ideas, functions, etc
 ### spreadOperator
 
 ![spreadOperator](./images/Notes.spreadOperator.PNG)
+
+### restOperator
+
+![spreadOperator](./images/Notes.restOperator.PNG)
 
 ## Questions
 
