@@ -26,6 +26,7 @@
 - [Description](#description)
 - [Code](#code)
 - [Filter and Find](#FilterAndFind)
+- [Reduce](#Reduce)
 - [Questions](#questions)
 
 ## Description
@@ -34,9 +35,13 @@ Notes to help keep track of different JavaScript ideas, functions, etc
 
 ## Code
 
-## FilterAndFind
+### FilterAndFind
 
 ![FilterAndFind](./images/Notes.filterAndFind.PNG)
+
+### Reduce
+
+![Reduce](./images/Notes.reduce.PNG)
 
 ## Questions
 
