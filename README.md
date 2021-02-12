@@ -27,6 +27,7 @@
 - [Code](#code)
 - [Filter and Find](#FilterAndFind)
 - [Reduce](#Reduce)
+- [Array Destructuring](#arrayDestructuring)
 - [Questions](#questions)
 
 ## Description
@@ -42,6 +43,10 @@ Notes to help keep track of different JavaScript ideas, functions, etc
 ### Reduce
 
 ![Reduce](./images/Notes.reduce.PNG)
+
+### arrayDestructuring
+
+![Arrayy Destructuring](./images/Notes.array_Destructuring.PNG)
 
 ## Questions
 
